@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RyosukeNatori/xss-sample-original/issues"
   },
-  "homepage": "https://github.com/RyosukeNatori/xss-sample-original#readme"
+  "homepage": "https://github.com/RyosukeNatori/xss-sample-original#readme",
+  "dependencies": {
+    "eslint": "^8.17.0"
+  }
 }
